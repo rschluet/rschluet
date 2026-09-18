@@ -1,3 +1,5 @@
+# I hope this doesn't "Hurt anything"
+
 - 👋 Hi, I’m @rschluet — 55 years in tech, starting back in the microcomputer era
 - 🚀 In 1994 I cofounded FRx Software, building financial reporting tools for the Fortune 1000 — we sold the company to Microsoft in 2000
 - 👀 I’m interested in ...AI, and still writing apps to this day
